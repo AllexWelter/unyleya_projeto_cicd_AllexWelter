@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: admin
+  name: WELTER_G5KD
   vmImage: 'windows-latest'
 
 # Command line
