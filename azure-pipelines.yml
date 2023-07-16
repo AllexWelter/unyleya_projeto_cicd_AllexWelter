@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: admin
+  name: AllexWelter
   vmImage: 'windows-latest'
 
 # Command line
