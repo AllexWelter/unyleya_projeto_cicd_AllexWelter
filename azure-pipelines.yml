@@ -40,7 +40,7 @@ steps:
 
 #- task: SonarQubePrepare@4
 #  inputs:
-#    SonarQube: 'Sonarqube Osanam Azure'
+#    SonarQube: 'Sonarqube osanam Azure'
 #    scannerMode: 'CLI'
 #    configMode: 'manual'
 #    cliProjectKey: 'Unyleya_-_DevOps_Unyleya_-_DevOps'
